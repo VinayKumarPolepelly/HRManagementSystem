@@ -2,10 +2,10 @@ Hi this is the Full Stack Project using MERN Stack.
 
 #Introduction to the HR Management Project
 Overview
-This system is designed to streamline and enhance HR operations within our organization. Our HR Management system is divided into two primary domains: the Employee Domain and the Admin Domain.
+This system is designed to streamline and enhance HR operations within our organization. This HR Management system is divided into two primary domains: the Employee Domain and the Admin Domain.
 
 Employee Domain
-The Employee Domain is tailored to meet the needs of our employees, providing them with essential tools and functionalities to manage their work-related activities efficiently. Here’s what employees can do in this domain:
+The Employee Domain is tailored to meet the needs of employees, providing them with essential tools and functionalities to manage their work-related activities efficiently. Here’s what employees can do in this domain:
 View Salary Details: Employees can easily access and review their salary information.
 Project Details: Employees can view details about the projects they are assigned to.
 Report Project Details: Employees have the capability to report their project progress and details directly to their manager.
