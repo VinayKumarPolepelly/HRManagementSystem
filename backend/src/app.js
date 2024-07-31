@@ -6,7 +6,7 @@ import adminRouter from "./routes/admin.routes.js";
 const app = express();
 
 const corsOptions = {
-  origin: "https://hr-management-system-umber.vercel.app/", // Frontend domain
+  origin: "", // Frontend domain
   methods: ["POST", "GET"],
   credentials: true, // Allow credentials (cookies) to be sent
 };
