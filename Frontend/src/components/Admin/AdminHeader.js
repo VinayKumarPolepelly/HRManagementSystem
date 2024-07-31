@@ -100,12 +100,12 @@ const AdminHeader = () => {
         </Link>
         <Link to="/admin/projectreport">
           <li className="m-5 active:font-semibold link-underline link-underline-black">
-            Project Report
+            Project Reports
           </li>
         </Link>
         <Link to="/admin/leavereport">
           <li className="m-5 active:font-semibold link-underline link-underline-black">
-            Leave Reports
+            Leave Requests
           </li>
         </Link>
         <li className="relative">

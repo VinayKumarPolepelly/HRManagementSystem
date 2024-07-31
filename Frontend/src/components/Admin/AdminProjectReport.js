@@ -46,7 +46,7 @@ const AdminProjectReport = () => {
       <div className="p-2">
         <div className=" h-[570px] rounded-t-2xl m-auto  mt-6 p-1">
           <div className="bg-blue-900 p-3 rounded-t-2xl text-center">
-            <h1 className="text-white font-bold text-xl">PROJECT REPORT</h1>
+            <h1 className="text-white font-bold text-xl">PROJECT REPORTS</h1>
           </div>
           <div className="bg-gray-200 text-black p-2  font-bold flex justify-between ">
             <table className="min-w-full divide-y divide-gray-200">
