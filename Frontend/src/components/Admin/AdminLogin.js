@@ -13,7 +13,7 @@ const AdminLogin = () => {
 
   const handlesubmitform = async (e) => {
     e.preventDefault();
-    const url = `https://hr-management-system-umber.vercel.app/admins/login`;
+    const url = `${BASE_URL}/api/v1/admins/login`;
 
     const data = {
       username: username.current.value,
