@@ -6,7 +6,8 @@ import adminRouter from "./routes/admin.routes.js";
 const app = express();
 
 const corsOptions = {
-  origin: "http://localhost:3000", // Frontend domain
+  origin: "https://hr-management-system.vercel.app", // Frontend domain
+  methods: ["POST", "GET"],
   credentials: true, // Allow credentials (cookies) to be sent
 };
 
