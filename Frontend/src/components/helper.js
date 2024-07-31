@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:1024";
+export const BASE_URL = "https://hr-management-system-umber.vercel.app/";
